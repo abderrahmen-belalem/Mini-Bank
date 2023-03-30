@@ -3,7 +3,7 @@ public class Person {
     String firstName;
     String lastName;
     String birthdayDate;
-    String birthdayPlace;
+    String birthPlace;
 
     Person(int age, String firstName, String lastName, String birthdayDate, String birthdayPlace) {
         this.age = age;
